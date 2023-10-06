@@ -46,7 +46,7 @@ function App() {
             <img src={data[2].image} alt="" />
             <div className="text">
               <span>{data[2].name}</span>
-              <span  classname="first">{data[2].status}</span>
+              <span  className="first">{data[2].status}</span>
             </div>
           </div>
           <div className="content">
@@ -64,7 +64,7 @@ function App() {
             <img src={data[3].image} alt="" />
             <div className="text">
               <span>{data[3].name}</span>
-              <span classname="first">{data[3].status}</span>
+              <span className="first">{data[3].status}</span>
             </div>
           </div>
           <div className="content">
@@ -82,7 +82,7 @@ function App() {
             <img src={data[4].image} alt="" />
             <div className="text">
               <span>{data[4].name}</span>
-              <span classname="first">{data[4].status}</span>
+              <span className="first">{data[4].status}</span>
             </div>
           </div>
           <div className="content">
